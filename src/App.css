@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin: 3%;
+}
+
+.list-heading{
+  display: flex;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 1%;   
+
+}
+
+.list-heading .goal{
+  display: flex;
+  margin: 0% 21%;
+}
+.list-heading .time{
+  display: flex;
+  padding-right: 2%;
+}
+
+
+.list-heading h4{
+  width: auto;
+  margin: 0% 20%;
+
+}
